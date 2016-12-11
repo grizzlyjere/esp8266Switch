@@ -1,0 +1,20 @@
+{
+  "name": "Christmas Lights",
+  "device_id": "ecoplug01",
+  "wifi": {
+    "ssid": "SuddenValleyDecaf",
+    "password": "Indiana1989!"
+  },
+  "mqtt": {
+    "host": "10.10.10.5",
+    "port": 1883,
+    "base_topic": "devices/",
+    "auth": false
+  },
+  "ota": {
+    "enabled": true
+  },
+  "settings": {
+    "percentage": 55
+  }
+}
